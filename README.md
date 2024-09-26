@@ -6,7 +6,7 @@
   Email: nguyenthivan18092004@gmail.com
   Linkedin: www.linkedin.com/in/vannt189
 - 😄 Pronouns: Van
-- ⚡ Fun fact: I like watching Youtube, listening to podcasts and studying for fun about neuroscience.
+- ⚡ Fun fact: I like watching Youtube, listening to podcasts and studying.
 
 <!---
 chisquare09/chisquare09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
